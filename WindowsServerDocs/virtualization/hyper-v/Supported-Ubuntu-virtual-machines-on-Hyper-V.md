@@ -19,7 +19,6 @@ The following feature distribution map indicates the features in each version. T
 * **Built in** - LIS are included as part of this Linux distribution. The Microsoft-provided LIS download package doesn't work for this distribution, so don't install it. The kernel module version numbers for the built in LIS (as shown by **lsmod**, for example) are different from the version number on the Microsoft-provided LIS download package. A mismatch doesn't indicate that the built in LIS is out of date.
 
 * &#10004; - Feature available
-
 * (*blank*) - Feature not available
 
 |**Feature**|**Windows Server operating system version**|**20.04 LTS**|**18.04 LTS**|**16.04 LTS**|**14.04 LTS**|
